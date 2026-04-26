@@ -1,4 +1,3 @@
-"
 # EasyClass
 ✨ A lightweight, user-friendly class schedule application built with Python and Tkinter
 
